@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Sudarsan kumar
+#Hi, I'm Sudarsan kumar
 
 *BTech AI&DS Student*
 

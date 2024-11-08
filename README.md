@@ -22,7 +22,7 @@
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/postgreesql.png" alt="postgreesql"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/react-native.png" alt="react-native"/>
-<img width="50" height="50" src="https://img.icons8.com/ios-filled/50/django.png" alt="django"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/django.png" alt="django"/>
 
 
 ### My GeeksforGeeks Profile:

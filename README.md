@@ -1,4 +1,4 @@
-# Hi, I'm Sudarsan kumar
+![image](https://github.com/user-attachments/assets/0b86a9fa-9499-4cb6-a920-7c6467a7233c)# Hi, I'm Sudarsan kumar
 
 *BTech AI&DS Student*
 
@@ -20,7 +20,7 @@
 <img width="48" height="48" src="https://img.icons8.com/color/48/c-programming.png" alt="c-programming"/>
 <img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
 <img width="48" height="48" src="https://img.icons8.com/fluency/48/css3.png" alt="css3"/><img width="48" height="48" src="https://img.icons8.com/color/48/javascript--v1.png" alt="javascript--v1"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/mysql-logo.png" alt="mysql-logo"/>
-<img width="48" height="48" src="https://icons8.com/icon/LwQEs9KnDgIo/postgresql" alt="css3"/>
+<img width="48" height="48" src="[https://icons8.com/icon/LwQEs9KnDgIo/postgresql](https://img.icons8.com/?size=100&id=LwQEs9KnDgIo&format=png&color=000000)" alt="css3"/>
 
 
 ### My GeeksforGeeks Profile:

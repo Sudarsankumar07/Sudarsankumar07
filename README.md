@@ -9,7 +9,6 @@
 - 📚 I’m constantly learning and looking for ways to improve
 - ⚡ Fun fact: I love solving coding challenges and learning new programming languages!
 
-
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sudarsan-kumar-a73a69216/)
